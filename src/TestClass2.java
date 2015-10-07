@@ -5,5 +5,5 @@ public class TestClass2 {
 
 
     private int getal;
-    private int getalll;
+    private int getall;
 }
