@@ -10,5 +10,5 @@ public class TestClass {
 
     // Dit is ontwikkeld op testbranch
 
-    // Dit is ontwikkeld op masterbranch
+    // Dit is ontwikkeld op devbranch
 }
