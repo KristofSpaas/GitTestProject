@@ -4,6 +4,6 @@
 public class TestClass2 {
 
 
-    private int getal37;
+    private int getal;
     private int getalll;
 }
